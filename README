@@ -1,0 +1,10 @@
+This is written for UBUNTU/Linux.
+
+a.out is the executable.
+
+
+To compile:
+
+g++ puzzle.cpp `allegro-config --libs`
+
+Evidently, you have to have the ALLEGRO library installed.
